@@ -1,5 +1,5 @@
 import pytest
-from selene import browser, be, have
+from selene import browser
 from selene.core import query
 
 
