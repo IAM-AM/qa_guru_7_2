@@ -1,4 +1,2 @@
-pytest
-selene
-requests
-selenium==4.10.0
+pytest == 7.4.0
+selene == 2.0.0rc3.post3
